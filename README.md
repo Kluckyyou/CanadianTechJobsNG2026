@@ -1,6 +1,6 @@
 # 🚀 Automated Job Tracker: Tech Opportunities
 
-**Last Pipeline Run:** `2026-03-16 21:23:57 (EST/EDT)`
+**Last Pipeline Run:** `2026-03-17 10:24:42 (EST/EDT)`
 
 This repository uses **Python** and **Playwright** to scrape daily job postings.
 
@@ -8,5 +8,8 @@ This repository uses **Python** and **Playwright** to scrape daily job postings.
 * [💻 Software Development (New Grad)](./jobs/software_development.md)
 * [💻 Data Engineering (New Grad)](./jobs/data_engineering.md)
 * [💻 AI Engineer (New Grad)](./jobs/ai_engineer.md)
+* [💻 Credit Risk (Entry)](./jobs/credit_risk.md)
+* [💻 Market Risk (Entry)](./jobs/market_risk.md)
+* [💻 Risk Modelling (Entry)](./jobs/risk_modelling.md)
 
 _This repository is automatically updated daily via local CI/CD pipelines._
