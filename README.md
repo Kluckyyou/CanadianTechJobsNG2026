@@ -1,6 +1,6 @@
 # 🚀 Automated Job Tracker: Tech Opportunities
 
-**Last Pipeline Run:** `2026-03-18 10:35:42 (EST/EDT)`
+**Last Pipeline Run:** `2026-03-20 15:17:29 (EST/EDT)`
 
 This repository uses **Python** and **Playwright** to scrape daily job postings.
 
